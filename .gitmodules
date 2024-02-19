@@ -1,0 +1,6 @@
+[submodule "futarchy-indexer"]
+	path = futarchy-indexer
+	url = https://github.com/metaDAOproject/futarchy-indexer
+[submodule "meta-dao-frontend"]
+	path = meta-dao-frontend
+	url = https://github.com/metaDAOproject/meta-dao-frontend
