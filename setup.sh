@@ -1,0 +1,1 @@
+export GITHUB_TOKEN=$GH_TOKEN
