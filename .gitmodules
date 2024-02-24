@@ -4,3 +4,6 @@
 [submodule "meta-dao-frontend"]
 	path = meta-dao-frontend
 	url = https://github.com/metaDAOproject/meta-dao-frontend
+[submodule "futarchy"]
+	path = futarchy
+	url = https://github.com/metaDAOproject/futarchy
